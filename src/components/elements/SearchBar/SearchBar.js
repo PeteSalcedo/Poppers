@@ -1,4 +1,4 @@
-import Rect, { Component } from 'react';
+import React, { Component } from 'react';
 import FontAwsome from 'react-fontawesome';
 import './SearchBar.css'
 
