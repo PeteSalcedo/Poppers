@@ -1,4 +1,4 @@
-# Project Title
+# Poppers
 
 A movie app that gives you suggestions on how te movies are doing in the box office.Aswell you can check the new movies that are coming out.As well lets you visualize the actors and there roles.
 
@@ -15,6 +15,9 @@ A browser
 Clone the repo to your system
 open the terminal and go to the directory where your cloned the repo
 run the npm install command
+once installed go to the config file and replace the api text with your api
+You can create your api from the [MovieDB](https://www.themoviedb.org/) site
+
 run npm start and the app will start in localhost:3000
 ## Built With
 
